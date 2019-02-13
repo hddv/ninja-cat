@@ -1,6 +1,5 @@
 # ninja-cat
 Responsive Web design - Build a Product Landing (Ninja Cat)
 
-Freecodecamp Project
-
-Selling Ninja Caaaaat
+STEP 1
+Run test.html file on your favorite browser and Enjoy :)
