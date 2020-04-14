@@ -2,4 +2,7 @@
 Responsive Web design - Build a Product Landing (Ninja Cat)
 
 STEP 1
-Run test.html file on your favorite browser and Enjoy :)
+Run index.html file on your favorite browser 
+Or just go in https://hdinhvu.github.io/ninja-cat/
+
+And Enjoy :)
