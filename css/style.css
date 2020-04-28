@@ -46,6 +46,12 @@ div .container{
 	align-self: flex-start;
 }
 
+/* NAVBAR */
+.topNav .icon {
+	display: none;
+	font-size: 2rem;
+}
+
 #introduction-section{
 	margin-top: 120px;
 	height: 180px;
@@ -126,17 +132,17 @@ li{
 
 
 #features{
-	padding-top: 10vh;
+	padding-top: 20vh;
 }
 
 #how-it-works{
-	padding-top: 10vh;
+	padding-top: 20vh;
 	display: flex;
 	justify-content: center;
 }
 
 #pricing{
-	padding-top: 15vh;
+	padding-top: 20vh;
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
@@ -266,11 +272,16 @@ footer span{
 
 
 @media (max-width: 400px){
+
+#features, #how-it-works, #pricing{
+	padding-top: 14vh;
+}
 	
 	#header{
-		flex-direction: column;
+		/* flex-direction: column; */
 		align-items: center;
-		justify-content: center;
+		justify-content: space-between;
+		
 	}
 
 	#header-img{
@@ -278,6 +289,30 @@ footer span{
 		margin-bottom: 10px;
 	}
 
+	.topNav a.nav-link{
+		display: none;
+	}
+
+	.topNav a.icon{
+		display: block;
+	}
+
+	.topNav.responsive{
+		position: relative;
+	}
+
+	.topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+	.topNav.responsive a.nav-link{
+		display: block;
+		float: none;
+		right: 0;
+    top: 0;
+	}
 
 	#introduction-section{
 		margin-top: 150px;
@@ -288,5 +323,6 @@ footer span{
 		display: flex;
 		flex-direction: column;
 	}
+
 
 }
