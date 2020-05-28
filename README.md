@@ -9,9 +9,9 @@ And Enjoy :)
 
 
 <strong>Desktop:</strong><br>
-<img src="./images/main.png" width="900">
+<img src="./img/main.png" width="900">
 
 
 <strong>Mobile:</strong><br>
-<img src="./images/main2.png" width="300">
+<img src="./img/main2.png" width="300">
 
