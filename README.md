@@ -9,7 +9,7 @@ And Enjoy :)
 
 
 <strong>Desktop:</strong><br>
-<img src="./img/main.png" width="900">
+<kbd><img src="./img/main.png" width="900"></kbd>
 
 
 <strong>Mobile:</strong><br>
