@@ -13,5 +13,5 @@ And Enjoy :)
 
 
 <strong>Mobile:</strong><br>
-<img src="./img/main2.png" width="300">
+<kbd><img src="./img/main2.png" width="300"></kbd>
 
