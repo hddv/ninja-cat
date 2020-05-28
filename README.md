@@ -1,7 +1,7 @@
 # ninja-cat
 Responsive Web design - Build a Product Landing (Ninja Cat)
 
-![alt main page](https://ibb.co/DkkYx1Z)
+![alt mainPage](https://ibb.co/DkkYx1Z)
 
 
 STEP 1
